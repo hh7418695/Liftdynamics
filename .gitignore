@@ -6,10 +6,12 @@
 *.suo
 *.user
 *.vcxproj.*
+udp_client/udp_client/Release/
+udp_client/udp_client/Debug/
 
 # OS-specific files
-.DS_Store       # macOS
-Thumbs.db       # Windows
+.DS_Store
+Thumbs.db
 
 # Logs
 *.log

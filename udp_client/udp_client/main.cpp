@@ -10,6 +10,8 @@
 using namespace std;
 
 #pragma comment(lib,"ws2_32.lib")
+#pragma comment(lib,"hd.lib")
+#pragma comment(lib,"hdu.lib")
 #pragma warning(disable:4996)
 
 #include <HD/hd.h>
